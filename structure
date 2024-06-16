@@ -1,0 +1,12 @@
+ecommerce/
+    ├── app.py
+    ├── models.py
+    ├── forms.py
+    ├── templates/
+    │   ├── layout.html
+    │   ├── home.html
+    │   ├── product.html
+    │   ├── cart.html
+    │   ├── checkout.html
+    ├── static/
+        └── style.css
